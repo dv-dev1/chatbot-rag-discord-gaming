@@ -29,4 +29,22 @@ O fluxo lógico funciona da seguinte maneira:
 
 Abaixo está um screenshot da arquitetura do workflow construído no n8n. (Informações sensíveis como nomes de bancos de dados e chaves de API foram omitidas por questões de confidencialidade).
 
-(PARE AQUI POR UM SEGUNDO)
+<img width="1560" height="528" alt="image" src="https://github.com/user-attachments/assets/daa03897-be75-4196-b934-d1b5bbf95afa" />
+
+
+
+## 🔑 Destaques Técnicos
+
+* **Plataforma:** n8n
+* **IA & LLMs:** OpenAI (Agente Principal), Google Gemini (Classificação)
+* **Arquitetura:** RAG (Retrieval-Augmented Generation)
+* **Banco de Dados Vetorial:** Pinecone
+* **Memória de Conversa:** PostgreSQL
+* **Integração:** Discord API
+
+## 📈 Resultado (Impacto no Negócio)
+
+* **Suporte 24/7:** A comunidade agora tem respostas instantâneas a qualquer hora do dia.
+* **Redução de Carga:** Diminuição de mais de 70% nas perguntas repetitivas direcionadas aos moderadores humanos.
+* **Consistência da Informação:** Garante que todos os jogadores recebam a mesma informação oficial, eliminando o "telefone sem fio".
+
